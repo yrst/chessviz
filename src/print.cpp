@@ -1,4 +1,4 @@
-#include "chess.h"
+#include "move.h"
 
 void ChessField(char pole[][9])
 {
