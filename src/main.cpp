@@ -19,8 +19,8 @@ int main()
                        {'1', 'R', 'N', 'B', 'Q', 'K', 'B', 'N', 'R'},
                        {' ', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'}};
     while (true) {
-        Move(pole);
         ChessField(pole);
+        Move(pole);
     }
     return 0;
 }
