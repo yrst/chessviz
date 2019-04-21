@@ -1,3 +1,5 @@
+#include "move.h"
+#include "print.h"
 #include <iomanip>
 #include <iostream>
 #include <stdio.h>
